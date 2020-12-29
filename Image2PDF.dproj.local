@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <ActiveMobileDevice>   <NoProfile Android="10.60.44.64:5555" Android64="10.60.44.64:5555"/>
+  </ActiveMobileDevice>
+  <Transactions>
+    <Transaction>2020/12/29 08:35:19.152,D:\Coding\Test Projects\CRoll\CameraRoll.dproj=C:\Users\Public\Documents\Embarcadero\Studio\21.0\Samples\Object Pascal\Mobile Snippets\CameraRoll\CameraRoll.dproj</Transaction>
+    <Transaction>2020/12/29 08:49:33.398,D:\Coding\Test Projects\CRoll\uMain.fmx=C:\Users\Public\Documents\Embarcadero\Studio\21.0\Samples\Object Pascal\Mobile Snippets\CameraRoll\uMain.fmx</Transaction>
+    <Transaction>2020/12/29 10:13:48.066,D:\Coding\Test Projects\CRoll\Image2PDF.dproj=D:\Coding\Test Projects\CRoll\CameraRoll.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
